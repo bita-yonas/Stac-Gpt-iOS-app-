@@ -10,7 +10,7 @@ import Foundation
 // Configuration for RAG and OpenAI service
 struct RAGServiceConfig {
     // API configuration
-    static let apiKey = "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" // Replace with your actual API key
+    static let apiKey = "apikey" // Replace with your actual API key
     static let model = "gpt-4o" // You can use gpt-3.5-turbo for lower cost
     
     // System prompt
